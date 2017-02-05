@@ -4,7 +4,7 @@ public class Class1 {
 	
 	public static void main(String[] args){
 		
-		System.out.println("User 1 made Changes");
+		System.out.println("Updates-2");
 	}
 
 }
